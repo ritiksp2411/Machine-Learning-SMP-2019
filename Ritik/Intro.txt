@@ -1,0 +1,4 @@
+Name:Ritik Pansuriya
+Branch:IT
+Roll:181IT237
+langauges known:C,C++,JAVA,HTML
